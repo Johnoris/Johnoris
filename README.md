@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Johnoris
 - I am a Fronted Developer
 - 👀 I’m interested in React
-- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ReactJS open-source projects
 - 📫 How to reach me Johnorisanwo@gmail.com
 
