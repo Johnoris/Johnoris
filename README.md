@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Johnoris
+- 👋 Hi, I’m John
 - I am a Fronted Developer
-- 👀 I’m interested in React
-- 💞️ I’m looking to collaborate on ReactJS open-source projects
-- 📫 How to reach me Johnorisanwo@gmail.com
+- 💞️ I’m looking to collaborate on ReactJS || React native projects
+- 📫 Reach me at - johnorisanwo@gmail.com
 
 <!---
 Johnoris/Johnoris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
